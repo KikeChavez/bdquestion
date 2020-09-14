@@ -1,0 +1,139 @@
+    /*
+    Flaticon icon font: Flaticon
+    Creation date: 22/06/2016 15:34
+    */
+
+    @font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+    .fi:before{
+        display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    }
+
+    .flaticon-archery:before { content: "\f100"; }
+.flaticon-axe:before { content: "\f101"; }
+.flaticon-backpack:before { content: "\f102"; }
+.flaticon-barbecue:before { content: "\f103"; }
+.flaticon-basket:before { content: "\f104"; }
+.flaticon-bicycle:before { content: "\f105"; }
+.flaticon-binoculars:before { content: "\f106"; }
+.flaticon-bonfire:before { content: "\f107"; }
+.flaticon-boot:before { content: "\f108"; }
+.flaticon-burner:before { content: "\f109"; }
+.flaticon-cabin:before { content: "\f10a"; }
+.flaticon-camp-chair:before { content: "\f10b"; }
+.flaticon-camp-chair-1:before { content: "\f10c"; }
+.flaticon-canoe:before { content: "\f10d"; }
+.flaticon-cap:before { content: "\f10e"; }
+.flaticon-carabiner:before { content: "\f10f"; }
+.flaticon-caravan:before { content: "\f110"; }
+.flaticon-caravan-1:before { content: "\f111"; }
+.flaticon-compass:before { content: "\f112"; }
+.flaticon-cup:before { content: "\f113"; }
+.flaticon-first-aid-kit:before { content: "\f114"; }
+.flaticon-flag:before { content: "\f115"; }
+.flaticon-flashlight:before { content: "\f116"; }
+.flaticon-flask:before { content: "\f117"; }
+.flaticon-forest:before { content: "\f118"; }
+.flaticon-guitar:before { content: "\f119"; }
+.flaticon-hook:before { content: "\f11a"; }
+.flaticon-knife:before { content: "\f11b"; }
+.flaticon-lighter:before { content: "\f11c"; }
+.flaticon-marshmallow:before { content: "\f11d"; }
+.flaticon-matches:before { content: "\f11e"; }
+.flaticon-mountains:before { content: "\f11f"; }
+.flaticon-oil-lamp:before { content: "\f120"; }
+.flaticon-orientation:before { content: "\f121"; }
+.flaticon-panel:before { content: "\f122"; }
+.flaticon-penknife:before { content: "\f123"; }
+.flaticon-photo-camera:before { content: "\f124"; }
+.flaticon-pot:before { content: "\f125"; }
+.flaticon-preserver:before { content: "\f126"; }
+.flaticon-rope:before { content: "\f127"; }
+.flaticon-sausage:before { content: "\f128"; }
+.flaticon-shovel:before { content: "\f129"; }
+.flaticon-sleeping-bag:before { content: "\f12a"; }
+.flaticon-swimming-pool:before { content: "\f12b"; }
+.flaticon-table:before { content: "\f12c"; }
+.flaticon-tent:before { content: "\f12d"; }
+.flaticon-tent-1:before { content: "\f12e"; }
+.flaticon-thermo:before { content: "\f12f"; }
+.flaticon-van:before { content: "\f130"; }
+.flaticon-walkie-talkie:before { content: "\f131"; }
+    
+    $font-Flaticon-archery: "\f100";
+    $font-Flaticon-axe: "\f101";
+    $font-Flaticon-backpack: "\f102";
+    $font-Flaticon-barbecue: "\f103";
+    $font-Flaticon-basket: "\f104";
+    $font-Flaticon-bicycle: "\f105";
+    $font-Flaticon-binoculars: "\f106";
+    $font-Flaticon-bonfire: "\f107";
+    $font-Flaticon-boot: "\f108";
+    $font-Flaticon-burner: "\f109";
+    $font-Flaticon-cabin: "\f10a";
+    $font-Flaticon-camp-chair: "\f10b";
+    $font-Flaticon-camp-chair-1: "\f10c";
+    $font-Flaticon-canoe: "\f10d";
+    $font-Flaticon-cap: "\f10e";
+    $font-Flaticon-carabiner: "\f10f";
+    $font-Flaticon-caravan: "\f110";
+    $font-Flaticon-caravan-1: "\f111";
+    $font-Flaticon-compass: "\f112";
+    $font-Flaticon-cup: "\f113";
+    $font-Flaticon-first-aid-kit: "\f114";
+    $font-Flaticon-flag: "\f115";
+    $font-Flaticon-flashlight: "\f116";
+    $font-Flaticon-flask: "\f117";
+    $font-Flaticon-forest: "\f118";
+    $font-Flaticon-guitar: "\f119";
+    $font-Flaticon-hook: "\f11a";
+    $font-Flaticon-knife: "\f11b";
+    $font-Flaticon-lighter: "\f11c";
+    $font-Flaticon-marshmallow: "\f11d";
+    $font-Flaticon-matches: "\f11e";
+    $font-Flaticon-mountains: "\f11f";
+    $font-Flaticon-oil-lamp: "\f120";
+    $font-Flaticon-orientation: "\f121";
+    $font-Flaticon-panel: "\f122";
+    $font-Flaticon-penknife: "\f123";
+    $font-Flaticon-photo-camera: "\f124";
+    $font-Flaticon-pot: "\f125";
+    $font-Flaticon-preserver: "\f126";
+    $font-Flaticon-rope: "\f127";
+    $font-Flaticon-sausage: "\f128";
+    $font-Flaticon-shovel: "\f129";
+    $font-Flaticon-sleeping-bag: "\f12a";
+    $font-Flaticon-swimming-pool: "\f12b";
+    $font-Flaticon-table: "\f12c";
+    $font-Flaticon-tent: "\f12d";
+    $font-Flaticon-tent-1: "\f12e";
+    $font-Flaticon-thermo: "\f12f";
+    $font-Flaticon-van: "\f130";
+    $font-Flaticon-walkie-talkie: "\f131";
